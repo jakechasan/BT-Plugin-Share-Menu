@@ -1,0 +1,14 @@
+{"propertySections":[
+	{"fileType":"custom", "fileName":"jc_shareMenuNavBar.html"},
+	{"fileType":"custom", "fileName":"jc_shareMenuServices.html"},
+	{"fileType":"custom", "fileName":"jc_socialNetworkinfo.html"},
+	{"fileType":"custom", "fileName":"jc_shareMessage.html"},
+	{"fileType":"custom", "fileName":"jc_shareImages.html"},
+	{"fileType":"custom", "fileName":"jc_shareURLs.html"},
+	{"fileType":"custom", "fileName":"jc_shareDocuments.html"},
+
+	{"fileType":"bt_section", "fileName":"btSection_login.html"},
+	{"fileType":"bt_section", "fileName":"btSection_search.html"},
+	{"fileType":"bt_section", "fileName":"btSection_screenJson.html"}	
+	]
+}

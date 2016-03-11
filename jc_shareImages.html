@@ -1,0 +1,28 @@
+<!-- ################################################################ -->
+<!-- ############### Image Properties ######################## -->
+<div class='cpExpandoBox colorLightBg' id="section_alertCancelButton">
+    <a href='#' onClick="fnTogglePropertyBox('box_shareImage');return false;"><img src='../../images/arr_right.gif' alt='arrow' />Shared Images</a>
+    <div id="box_shareImage" style="display:none;">
+                                  
+                        <div style='padding-top:10px;'>
+                          <p><b>Enter the image file names or URLs.</b><br/>
+                            Local File Names (Sepeperated by Commas): 
+                            <input type="text" name="json_shareLocalImage" id="json_shareLocalImage" value="">
+                          </p>
+                          <p>URL File Names (Sepeperated by Commas):
+                            <input type="text" name="json_shareURLImage" id="json_shareURLImage" value="">
+                          </p>
+                          <p><strong>Helpful Tips:</strong>    <br/>
+                          <strong>
+
+                          <em>In accordance with Apple, Twitter and Weibo will not show if more than 1 image is configured. Only 1 image will print.</em></strong></div>
+
+<div class='boxButton'>
+  <input type='button' title="save" value="save" align='absmiddle' class="buttonSubmit" onClick="saveAdvancedProperty('saveResult_shareImages');return false;">
+  <div id="saveResult_shareImages" class="submit_working">&nbsp;</div>
+</div>
+                        </div>
+                 
+              </div>
+<!-- ############### End Image Properties ################ -->
+<!-- ############################################################ -->

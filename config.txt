@@ -1,0 +1,31 @@
+//buzztouch plugin info
+uniquePluginId: JC_ShareController
+displayAs: Share Menu
+category: Action
+loadClassOrActionName: JC_ShareController
+hasChildItems: No
+supportedDevices: ios
+
+//author info
+authorName: Jake Chasan
+authorEmail: support@jakechasanapps.com
+authorBuzztouchURL: https://www.buzztouch.com/Jake Chasan
+authorWebsiteURL: http://www.jakechasan.com
+authorTwitterURL: http://twitter.com/jakechasan
+authorFacebookURL: https://www.facebook.com/jakechasan
+authorLinkedInURL: 
+authorYouTubeURL: 
+
+//version info
+versionNumber: 2.4
+versionString: v2.4
+updateURL: https://www.buzztouch.com/plugins/update.php?pid=2C64C67C961948B1A03DBA0
+downloadURL: https://www.buzztouch.com/plugins/download.php?pid=2C64C67C961948B1A03DBA0
+
+//default json data
+defaultJSONData:
+{"itemId”:”11223344”, "itemType":"JC_ShareController", "itemNickname":"Share Controller", "shareMail":"1", "shareMessage":"1", "shareFacebook":"1", "shareTwitter":"1", "shareWeibo":"1", "shareCopy":"1", "sharePrint":"0", "shareCameraRoll":"0", "shareContact":"0"}
+
+//description for control panel. Up to 250 characters. No HTML.
+shortDescription:
+The ShareMenu plugin brings the native iOS Sharing Menu to your app. Share with Mail, Messages, Facebook, Twitter, Weibo, Pasteboard, Print, Camera Roll, and Assign to Contact. URLs, Images and Documents can be attached.

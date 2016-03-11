@@ -1,0 +1,86 @@
+<!-- ##################################################### -->                   
+<!-- ############### services property ###############-->
+<div class='cpExpandoBox colorLightBg' id="section_sharingServices">
+    <a href='#' onClick="fnTogglePropertyBox('box_sharingServices');return false;"><img src='../../images/arr_right.gif' alt='arrow' />Sharing Services</a>
+    <div id="box_sharingServices" style="display:box;">    
+        
+        <div style='padding-top:10px;'>
+            <p><b>Show These Services</b></p>
+
+            <p>Mail: 
+                    <select name="json_shareMail" id="json_shareMail" style="width:250px;">
+                        <option value="0" >No, do not show</option>
+                        <option value="1"  selected >Yes, show the button</option>
+                    </select>
+          </p>
+          
+            <p>Message: 
+                    <select name="json_shareMessage" id="json_shareMessage" style="width:250px;">
+                        <option value="0" >No, do not show</option>
+                        <option value="1"  selected >Yes, show the button</option>
+                    </select>
+          </p>
+
+            <p>Post to Facebook: 
+                    <select name="json_shareFacebook" id="json_shareFacebook" style="width:250px;">
+                        <option value="0" >No, do not show</option>
+                        <option value="1"  selected >Yes, show the button</option>
+                    </select>
+          </p>
+
+            <p>Post to Twitter: 
+                    <select name="json_shareTwitter" id="json_shareTwitter" style="width:250px;">
+                        <option value="0" >No, do not show</option>
+                        <option value="1"  selected >Yes, show the button</option>
+                    </select>
+          </p>
+
+          <p>Post to Weibo: 
+            <select name="json_shareWeibo" id="json_shareWeibo" style="width:250px;">
+                        <option value="0" >No, do not show</option>
+                        <option value="1"  selected >Yes, show the button</option>
+            </select>
+          </p>
+
+          <p>Copy to Pasteboard: 
+                    <select name="json_shareCopy" id="json_shareCopy" style="width:250px;">
+                        <option value="0" >No, do not show</option>
+                        <option value="1"  selected >Yes, show the button</option>
+                    </select>          
+          </p>
+<br/>
+            <p><strong>These Services Require an Image</strong></p>
+
+            <p>Print: 
+                    <select name="json_sharePrint" id="json_sharePrint" style="width:250px;">
+                        <option value="0"  selected >No, do not show</option>
+                        <option value="1" >Yes, show the button</option>
+              </select>          
+          </p>
+
+            <p>Save to Camera Roll: 
+                    <select name="json_shareCameraRoll" id="json_shareCameraRoll" style="width:250px;">
+                        <option value="0"  selected >No, do not show</option>
+                        <option value="1" >Yes, show the button</option>
+                    </select>
+          </p>
+
+            <p>Assign to Contact: 
+                    <select name="json_shareContact" id="json_shareContact" style="width:250px;">
+                        <option value="0"  selected >No, do not show</option>
+                        <option value="1" >Yes, show the button</option>
+                    </select>
+          </p>
+          
+      </div>
+        
+        <div class='boxButton'>
+            <input type='button' title="save" value="save" class="buttonSubmit" onClick="saveJSONProperties('saveResult_sharingServices');return false;">
+            <div id="saveResult_sharingServices" class="submit_working">&nbsp;</div>
+        </div>
+         
+        </div>
+
+  </div>    
+<!-- ############### end services property ############### -->
+<!-- ##################################################### -->   
