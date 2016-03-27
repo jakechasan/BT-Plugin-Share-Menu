@@ -15,6 +15,7 @@ v2.1-Fixed Compiler Error with BT2.0 Projects
 v2.2-Updated for iOS 8
 v2.3-Fixed bugs on iPads running iOS 8
 v2.4-Fixed display problems and screen transition issues on iOS 8, added new screenshots
+v2.5-Fixed URL saving bug
 
 iOS Project
 ------------------------
