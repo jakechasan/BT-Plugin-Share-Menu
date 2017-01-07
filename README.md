@@ -33,6 +33,7 @@ v2.4-Fixed display problems and screen transition issues on iOS 8, added new scr
 
 v2.5-Fixed URL saving bug
 
+v2.6-Compatibility with BT4.0 and iOS 10
 
 ### iOS Project
 JC_ShareController.h

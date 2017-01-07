@@ -17,8 +17,8 @@ authorLinkedInURL:
 authorYouTubeURL: 
 
 //version info
-versionNumber: 2.5
-versionString: v2.5
+versionNumber: 2.6
+versionString: v2.6
 updateURL: https://www.buzztouch.com/plugins/update.php?pid=2C64C67C961948B1A03DBA0
 downloadURL: https://www.buzztouch.com/plugins/download.php?pid=2C64C67C961948B1A03DBA0
 
